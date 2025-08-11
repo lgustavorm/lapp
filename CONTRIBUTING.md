@@ -25,6 +25,7 @@ Obrigado por considerar contribuir para o Lapp! Este documento fornece diretrize
 ### 3. Desenvolvimento
 
 1. Crie uma branch para sua feature:
+
    ```bash
    git checkout -b feature/nova-funcionalidade
    ```
@@ -32,6 +33,7 @@ Obrigado por considerar contribuir para o Lapp! Este documento fornece diretrize
 2. Faça suas alterações seguindo as diretrizes de código
 
 3. Execute os testes:
+
    ```bash
    flutter test
    flutter analyze
@@ -45,6 +47,7 @@ Obrigado por considerar contribuir para o Lapp! Este documento fornece diretrize
 ### 4. Pull Request
 
 1. Push para sua branch:
+
    ```bash
    git push origin feature/nova-funcionalidade
    ```
