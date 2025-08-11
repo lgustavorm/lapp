@@ -9,7 +9,7 @@ Obrigado por considerar contribuir para o Lapp! Este documento fornece diretrize
 1. Faça um fork do repositório
 2. Clone seu fork localmente:
    ```bash
-   git clone https://github.com/seu-usuario/lapp.git
+   git clone https://github.com/lgustavorm/lapp.git
    cd lapp
    ```
 

@@ -24,7 +24,7 @@ Um aplicativo Flutter para cronometrar voltas em qualquer tipo de veículo (trac
 
 ## 📱 Screenshots
 
-*Screenshots do app serão adicionadas aqui*
+_Screenshots do app serão adicionadas aqui_
 
 ## 🚀 Como Executar
 
@@ -37,17 +37,20 @@ Um aplicativo Flutter para cronometrar voltas em qualquer tipo de veículo (trac
 ### Instalação
 
 1. **Clone o repositório**
+
    ```bash
-   git clone https://github.com/seu-usuario/lapp.git
+   git clone https://github.com/lgustavorm/lapp.git
    cd lapp
    ```
 
 2. **Instale as dependências**
+
    ```bash
    flutter pub get
    ```
 
 3. **Configure o Firebase** (opcional)
+
    - Crie um projeto no Firebase Console
    - Adicione as configurações do Firebase
    - Configure o arquivo `google-services.json` (Android) e `GoogleService-Info.plist` (iOS)
@@ -92,6 +95,7 @@ lib/
 ### Permissões Necessárias
 
 O app solicita as seguintes permissões:
+
 - **Localização**: Para detectar posição e voltas
 - **Armazenamento**: Para salvar dados e exportar resultados
 
@@ -127,8 +131,9 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 👨‍💻 Autor
 
-**Seu Nome**
-- GitHub: [@seu-usuario](https://github.com/seu-usuario)
+**lgustavorm**
+
+- GitHub: [@lgustavorm](https://github.com/lgustavorm)
 
 ## 🙏 Agradecimentos
 
